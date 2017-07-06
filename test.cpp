@@ -1,3 +1,6 @@
+// basic comment
+// author: Gabor
+// over 9000
 #include<iostream>
 using namespace std;
 
